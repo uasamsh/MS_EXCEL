@@ -42,3 +42,6 @@ Average annual state temperatures (1971–2000 NOAA Climate Normals), via
 - Conditional/dynamic formulas (`IF`, `VLOOKUP`, `INDEX`/`MATCH`)
 - Dynamic chart series driven by helper columns
 - Real-world data sourcing and cleaning
+
+   ## Author
+    Uzma Ejaz
