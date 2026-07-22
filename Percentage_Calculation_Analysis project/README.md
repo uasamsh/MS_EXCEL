@@ -10,7 +10,7 @@ along with **summary statistics** and two **visualizations (charts)**.
 
 Below are screenshots of the project:
 
-![Screenshot 1](Screenshot.png)
+![Screenshot](Screenshot.png)
 
 
 ## Contents
@@ -24,7 +24,7 @@ Below are screenshots of the project:
 
 ## Formulas Used
 
-- `% Change = (Current Year Profit - Previous Year Profit) / Previous Year Profit`
+- `% Change = (Current Year Profit - Previous Year Profit) / Previous Year Profit.`
 - `AVERAGE()`, `MAX()`, `MIN()` for summary statistics
 
 ## How to Use
