@@ -62,3 +62,6 @@ Helper summary tables (`AVERAGEIF`) feed the bar charts; the scatter charts plot
 ## License
 
 All rights reserved — see [`LICENSE`](LICENSE) for terms.
+
+## Author
+ Uzma Ejaz
