@@ -41,3 +41,6 @@ A monthly sales forecasting project built with Excel's built-in Forecast Sheet t
 - Confidence interval calculation
 - Chart-based trend visualization
 - Structured historical data with a seasonal reference index
+
+  ## Author
+   Uzma Ejaz
