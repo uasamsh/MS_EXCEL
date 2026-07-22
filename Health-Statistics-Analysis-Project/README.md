@@ -33,3 +33,6 @@ A practice project analyzing a 100-person synthetic health dataset in Excel, cal
 - Descriptive statistics formulas (`AVERAGE`, `STDEV`, `COUNT`, `MIN`, `MAX`)
 - Calculated columns (BMI from height/weight)
 - Structured, formula-driven spreadsheet design (no hardcoded results)
+
+   ## Author
+    Uzma Ejaz
