@@ -10,7 +10,7 @@ along with **summary statistics** and two **visualizations (charts)**.
 
 Below are screenshots of the project:
 
-![Screenshot](Screenshot.png)
+![Project Preview](Screenshot%20.png)
 
 
 ## Contents
