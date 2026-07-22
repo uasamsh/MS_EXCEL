@@ -2,8 +2,8 @@
 
 A full descriptive statistics project analyzing US health insurance charges across 1,000 records, reproducing the exact statistic set Excel's Data Analysis ToolPak produces — plus visualizations, all on one sheet.
 
-![Project Preview](Insurance_Descriptive1.png)
-![Project Preview](Insurance_Descriptivet2.png)
+![Project Preview](Insurance_Descriptive.png)
+![Project Preview](Insurance_Descriptive2.png)
 
 ## What this project does
 
