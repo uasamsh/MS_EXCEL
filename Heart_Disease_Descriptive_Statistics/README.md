@@ -52,3 +52,6 @@ This is the same style of data AI models use for early heart-disease risk predic
 ## License
 
 All rights reserved — see [`LICENSE`](LICENSE) for terms.
+
+## Author
+Uzma Ejaz
